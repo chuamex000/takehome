@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>83f5276a-ae99-48a4-9bf0-fcea5d97d80c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div[2]/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;permission logo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>af8557d1-bd93-4d69-acd7-885ae78362b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/permission-logo-20157739.svg</value>
+      <webElementGuid>9584bd5a-1806-4015-8e45-5488d6a57e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>permission logo</value>
+      <webElementGuid>510ab8eb-0ac7-4cf5-bc7f-759f5cb7052d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-screen flex-col&quot;]/div[@class=&quot;h-auto&quot;]/header[@class=&quot;sticky top-0 z-50 w-full bg-background&quot;]/div[@class=&quot;relative z-50 flex justify-between px-xl py-2xl md:px-4xl border-b border-gray-800&quot;]/div[@class=&quot;flex w-full items-center gap-6xl&quot;]/a[1]/img[1]</value>
+      <webElementGuid>b80f8a6f-868e-4b40-ae5a-6a78afedbf73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div[2]/div/a/img</value>
+      <webElementGuid>64ce0772-72bc-482a-a672-947a9e22362d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='permission logo']</value>
+      <webElementGuid>e8631ad2-a0d2-499c-9a81-5645f6ad8066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>a1de6df7-e228-4cde-a464-891f1d1a7c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/permission-logo-20157739.svg' and @alt = 'permission logo']</value>
+      <webElementGuid>5a04b53f-8dce-49fc-8909-3a5076d1e209</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

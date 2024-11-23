@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_KG</name>
+   <tag></tag>
+   <elementGuidId>f075e222-ba9b-4e5d-a4fd-9f4fda879bd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div[2]/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a77a537e-e91b-4183-bf51-2dbf088909b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-lg-semibold flex h-[48px] w-[48px] min-w-[48px] cursor-pointer items-center justify-center rounded-full bg-gray-800 text-gray-400</value>
+      <webElementGuid>010ed33b-4180-487f-89f2-54282f67fa0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KG</value>
+      <webElementGuid>375f1212-57b4-4e8a-a501-c4d76646b646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-screen flex-col&quot;]/div[@class=&quot;h-auto&quot;]/header[@class=&quot;sticky top-0 z-50 w-full bg-background&quot;]/div[@class=&quot;relative z-50 flex justify-between px-xl py-2xl md:px-4xl border-b border-gray-800&quot;]/div[@class=&quot;flex items-center gap-2xl pl-4xl&quot;]/a[1]/div[@class=&quot;text-lg-semibold flex h-[48px] w-[48px] min-w-[48px] cursor-pointer items-center justify-center rounded-full bg-gray-800 text-gray-400&quot;]</value>
+      <webElementGuid>c4faed99-7061-487e-9fdf-ab493b93ab8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div[2]/div[2]/a/div</value>
+      <webElementGuid>bf4bc1e7-95b1-459c-a5ad-6801ef9090bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to find out how.'])[1]/following::div[4]</value>
+      <webElementGuid>b3d5a895-b999-462a-99e1-f1d7043852d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Permission Search as your Homepage!'])[1]/following::div[5]</value>
+      <webElementGuid>f406ac79-b2c5-43a6-a7a1-df44e7dcaa01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opt-in Marketplace'])[1]/preceding::div[1]</value>
+      <webElementGuid>245de81b-b3d4-4245-bc47-c4ffae273aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find brands &amp; rewards.'])[1]/preceding::div[1]</value>
+      <webElementGuid>4f2bbd36-6aa9-403b-a944-180a150a6c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KG']/parent::*</value>
+      <webElementGuid>c919e2c3-95e1-4e6f-aea1-00056895430a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>74db3c6b-9c27-4e00-b9c9-e2c64576a2e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KG' or . = 'KG')]</value>
+      <webElementGuid>a3c759c6-2e05-4e97-a596-a6eac9f83165</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

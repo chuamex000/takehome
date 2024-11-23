@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3.0 Validate that account will be locked upon multiple unsuccessful login attempt</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3179a523-a5b1-4270-8ae8-9603e7ea8396</testCaseGuid>
+</TestCaseEntity>
